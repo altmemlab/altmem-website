@@ -2,7 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: AltMem Lab # the website title (if blank, full name will be used instead)
+title: AltMem Lab # used in browser tab and navbar
+long_title: Affective Learning & Translational Memory Lab # displayed as the h1 on the about page
 first_name:
 middle_name:
 last_name:
