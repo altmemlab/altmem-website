@@ -4,6 +4,7 @@
 
 title: AltMem Lab # used in browser tab and navbar
 long_title: Affective Learning & Translational Memory Lab # displayed as the h1 on the about page
+logo_long: text-logo-long.png # image version of long_title, shown on the about page
 first_name:
 middle_name:
 last_name:
