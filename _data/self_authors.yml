@@ -1,0 +1,8 @@
+# Authors to italicize in the bibliography (e.g. you + lab members).
+# Each entry needs a `last` name and a list of `first` name variants
+# matching how the name appears across your bib entries.
+#
+# To add someone, append another `- last: ... / first: [...]` block.
+
+- last: Hennings
+  first: [Augustin, Augustin C., Augustin C, A., A. C.]
