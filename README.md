@@ -1,3 +1,6 @@
+# my notes:
+News posts are in the /\_posts folder
+
 # al-folio
 
 <div align="center">
