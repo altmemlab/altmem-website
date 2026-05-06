@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 
 sections:
-  - title: principle investigator
+  - title: Principal Investigator
     members:
       - name: Dr. Gus Hennings
         align: right
