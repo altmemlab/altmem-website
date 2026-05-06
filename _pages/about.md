@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Principle Investigator: Dr. Gus Hennings"
+subtitle: "PI: Augustin (Gus) Hennings, Ph.D."
 
 # profile:
 #   align: right
