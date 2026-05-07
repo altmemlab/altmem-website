@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "PI: Au<em>gus</em>tin C. Hennings, Ph.D."
+subtitle: "PI: Au<b>gus</b>tin C. Hennings, Ph.D."
 
 # profile:
 #   align: right
