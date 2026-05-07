@@ -14,4 +14,5 @@ sections:
         image: gus.jpeg
         content: about_gus.md
         image_circular: false # crops the image to make it circula
+        cv: hennings-cv.pdf # filename in assets/pdf/, omit to hide the CV link
 ---

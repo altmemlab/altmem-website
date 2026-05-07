@@ -34,6 +34,13 @@ layout: page
               {% capture profile_content %}{% include_relative people/{{ profile.content }} %}{% endcapture %}
               {{ profile_content | markdownify }}
             {% endif %}
+            {% if profile.cv %}
+              <p class="profile-cv">
+                <a href="{{ profile.cv | prepend: '/assets/pdf/' | relative_url }}" target="_blank" rel="noopener">
+                  CV
+                </a>
+              </p>
+            {% endif %}
           </div>
         {% endfor %}
       {% endfor %}
