@@ -1,6 +1,6 @@
-Assistant Professor (starting Jan. 2027)
-Department of Psychology & Neuroscience
-CU Boulder
+Assistant Professor (starting Jan. 2027)\
+Department of Psychology & Neuroscience\
+University of Colorado Boulder
 
 Ph.D., The University of Texas at Austin (2022)
 

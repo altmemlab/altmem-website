@@ -10,9 +10,9 @@ sections:
   - title: Principal Investigator
     members:
       - name: Dr. Gus Hennings
-        align: left
+        align: right
         image: gus.jpeg
         content: about_gus.md
-        image_circular: false # crops the image to make it circula
-        cv: hennings-cv.pdf # filename in assets/pdf/, omit to hide the CV link
+        image_circular: false # crops the image to make it circular
+        cv: ACHennings_CV.pdf # filename in assets/pdf/, omit to hide the CV link
 ---

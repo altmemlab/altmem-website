@@ -24,11 +24,11 @@ latest_posts:
 ---
 
 <!-- Lorem ipsum — add landing page text here -->
-Emotional experiences color our lives, creating our most vivid and long-lasting memories. At the same time, these experiences can cause distress and adverse long-term impacts. Despite the significant individual and societal burdens of anxiety- and trauma-related disorders, there are critical gaps in our understanding of the affective processes underlying these disorders. Our research investigates the neurobiological and cognitive mechanisms of affective processes in humans, as well as how these mechanisms contribute to the development and maintenance of anxiety- and trauma-related disorders. We leverage these findings to test novel, neuroscience-informed interventions in healthy and clinical populations.
+Emotional experiences color our lives, creating our most vivid and long-lasting memories. At the same time, negative emotional experiences can cause distress and adverse long-term impacts. Despite the significant individual and societal burdens of anxiety- and trauma-related disorders, critical gaps remain in our understanding of the underlying affective processes. Research in the lab investigates the neurobiological and cognitive mechanisms of affective processes in humans, as well as how these mechanisms contribute to the development and maintenance of anxiety- and trauma-related disorders. We leverage these findings to test novel, neuroscience-informed interventions in healthy and clinical populations.
 
 Current research in the lab is broadly focused on these questions:
 1.  How do context-sensitive episodic memory processes shape Pavlovian conditioning and extinction?
 2.  How does the neurobiological organization of emotional memories contribute to both adaptive behavior and psychopathology?
 3.  How does memory-control ability influence fear extinction, and can enhancing memory-control ability promote lasting resilience against fear relapse?
 
-In service of our research goals the lab deploys a suite of cognitive neuroscience methods, including: behavioral and physiological assessment, advanced fMRI analyses including real-time neurofeedback, EEG (coming soon), eye-tracking, and computational modeling.
+In service of our research goals the lab deploys a suite of cognitive neuroscience methods: behavioral and physiological assessment, advanced fMRI analyses including real-time neurofeedback, EEG (coming soon), eye-tracking, and computational modeling.

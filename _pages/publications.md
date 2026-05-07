@@ -11,7 +11,7 @@ nav_order: 3
 
 <!-- Bibsearch Feature -->
 
-_lab members_
+<u>lab member</u>
 
 {% include bib_search.liquid %}
 
