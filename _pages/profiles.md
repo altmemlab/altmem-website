@@ -10,7 +10,7 @@ sections:
   - title: Principal Investigator
     members:
       - name: Dr. Gus Hennings
-        align: right
+        align: left
         image: gus.jpeg
         content: about_gus.md
         image_circular: false # crops the image to make it circula

@@ -1,9 +1,10 @@
 ---
 layout: default
 permalink: /blog/
-title: news
-nav: true
+title: blog
+nav: false
 nav_order: 4
+published: false
 pagination:
   enabled: true
   collection: posts
