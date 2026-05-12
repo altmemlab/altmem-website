@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-am-thrilled-to-announce-that-i-will-be-joining-the-department-of-psychology-amp-amp-neuroscience-at-cu-boulder-in-january-2027-i-will-be-recruiting-phd-students-for-the-cognitive-program-program-in-the-upcoming-recruitment-cycle-applying-fall-2026-starting-fall-2027-for-now-please-see-the-department-s-website-for-prospective-students-for-more-information-this-website-is-still-under-development-more-information-for-students-interested-in-joining-the-lab-will-be-added-in-the-coming-months",
+            },},{id: "news-i-am-thrilled-to-announce-that-i-will-be-joining-the-department-of-psychology-amp-amp-neuroscience-at-cu-boulder-in-january-2027-i-will-be-recruiting-phd-students-for-the-cognitive-program-in-the-upcoming-recruitment-cycle-applying-fall-2026-starting-fall-2027-for-now-please-see-the-department-s-website-for-prospective-students-for-more-information-this-website-is-still-under-development-more-information-for-students-interested-in-joining-the-lab-will-be-added-in-the-coming-months",
           title: 'I am thrilled to announce that I will be joining the Department of...',
           description: "",
           section: "News",},{id: "projects-project-1",
