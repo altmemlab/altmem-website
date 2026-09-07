@@ -4,15 +4,24 @@ permalink: /join/
 title: join
 nav: true
 nav_order: 5
-description: Opportunities to join the lab.
---- 
+_styles: >
+  .post article h1,
+  .post article h2,
+  .post article h3 {
+    font-family: "reross-quadratic", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+---
 
 # PhD Students
+
 The AltMem lab _is_ hiring graduate students in the upcoming cycle, matriculating Fall 2027. The deadline for applications is November 20th, 2026, 10pm MT.
 
 [Detailed instructions are found on the department's website](https://www.colorado.edu/psych-neuro/graduates/application-information).
 
 Below are some ideal qualifications. Successful candidates will have significant (but not necessarily complete) overlap with these criteria:
+
 - Bachelor's or Master's degree in a relevant field (e.g., Psychology, Neuroscience, or Computational/Computer Science)
 - A strong interest in studying learning and memory in humans
 - Research experience with human subjects
