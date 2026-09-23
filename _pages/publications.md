@@ -11,9 +11,11 @@ nav_order: 3
 
 <!-- Bibsearch Feature -->
 
-<u>lab member</u>
+<u>lab member</u><br>
 <sup>*†</sup> equal contribution
+
 {% include bib_search.liquid %}
+
 <div class="publications">
 
 {% capture preprint_count %}{% bibliography_count --file preprints %}{% endcapture %}
