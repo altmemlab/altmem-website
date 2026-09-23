@@ -41,7 +41,7 @@ ninja.data = [{
           section: "News",},{id: "news-information-for-prospective-graduate-students-is-live",
           title: 'Information for prospective graduate students is live!',
           description: "",
-          section: "News",},{id: "news-excited-to-share-that-our-review-on-the-next-generation-of-fear-generalization-is-now-in-press-in-trends-in-cognitive-science-a-collaboration-led-by-the-sam-cooper-scoop-lab-we-review-human-and-animal-neuroscience-of-fear-generalization-and-offer-suggestions-for-future-translational-research",
+          section: "News",},{id: "news-excited-to-share-that-our-review-on-the-next-generation-of-fear-generalization-is-now-in-press-in-trends-in-cognitive-science-a-collaboration-led-by-sam-cooper-scoop-lab-we-review-human-and-animal-neuroscience-of-fear-generalization-and-offer-suggestions-for-future-translational-research",
           title: 'Excited to share that our review on “The next generation of fear generalization”...',
           description: "",
           section: "News",},{id: "projects-project-1",
