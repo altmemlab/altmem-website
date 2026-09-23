@@ -17,6 +17,16 @@ nav_order: 3
 
 <div class="publications">
 
+{% capture preprint_count %}{% bibliography_count --file preprints %}{% endcapture %}
+{% assign preprint_count = preprint_count | plus: 0 %}
+{% if preprint_count > 0 %}
+
+<h2 class="bibliography">preprints</h2>
+
+{% bibliography --file preprints --group_by none %}
+
+{% endif %}
+
 {% bibliography %}
 
 </div>
