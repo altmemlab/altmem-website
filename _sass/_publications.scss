@@ -69,6 +69,15 @@
 
       .title {
         font-weight: bolder;
+
+        a {
+          color: inherit;
+
+          &:hover {
+            color: var(--global-theme-color);
+            text-decoration: none;
+          }
+        }
       }
 
       .author {
