@@ -14,6 +14,9 @@ _styles: >
     color: rgba(255, 255, 255, 0.25);
     border-top-color: rgba(255, 255, 255, 0.25);
   }
+  .preprints .periodical-date {
+    display: none;
+  }
 ---
 
 <!-- _pages/publications.md -->
@@ -33,7 +36,11 @@ _styles: >
 
 <h2 class="bibliography">preprints</h2>
 
+<div class="preprints">
+
 {% bibliography --file preprints --group_by none %}
+
+</div>
 
 {% endif %}
 
