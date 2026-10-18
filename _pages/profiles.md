@@ -11,7 +11,7 @@ sections:
     members:
       - name: Dr. Gus Hennings
         align: left
-        image: gus.jpeg
+        image: gus.jpg
         content: about_gus.md
         image_circular: false # crops the image to make it circular
         cv: ACHennings_CV.pdf # filename in assets/pdf/, omit to hide the CV link
